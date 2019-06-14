@@ -1,0 +1,21 @@
+{
+    "name": "lizzie",
+    "displayName": "Lizzie",
+    "description": "A blueish code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lizzie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lizzie-color-theme.json"
+            }
+        ]
+    }
+}
