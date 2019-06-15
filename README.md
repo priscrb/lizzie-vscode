@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Lizzie" src="images/logo.png" width="100" />
+</p>
+
 <h1 align="center">
   Lizzie Theme for VS Code
 </h1>
