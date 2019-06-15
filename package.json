@@ -1,21 +1,42 @@
 {
-    "name": "lizzie",
-    "displayName": "Lizzie",
-    "description": "A blueish code theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.35.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lizzie",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Lizzie-color-theme.json"
-            }
-        ]
-    }
+  "manifestVersion": 1,
+  "name": "lizzie-theme",
+  "displayName": "Lizzie",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Priscilla Ribeiro",
+    "email": "prsc.ribeiro@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priscribeiro/lizzie-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/priscribeiro/lizzie-vscode/issues",
+    "email": "prsc.ribeiro@gmail.com"
+  },
+  "description": "A dark simple theme for Vscode.",
+  "publisher": "prscribeiro",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lizzie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lizzie-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Lizzie"
+  ]
 }

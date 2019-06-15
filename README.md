@@ -8,6 +8,8 @@
 ## Installation via VS Code
 
 1.  Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2.  Search for `Halcyon`
+2.  Search for `Lizzie`
 3.  Click **Install** to install it
 4.  Code > Preferences > Color Theme > **Lizzie**
+
+Created by **[Priscilla Ribeiro](https://prscribeiro.com)**
