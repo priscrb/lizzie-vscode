@@ -14,6 +14,13 @@
     "sideBarSectionHeader.background": "#1d2433",
     "sideBarSectionHeader.foreground": "#C792EA",
 
+    // Title Bar Colors
+    "titleBar.activeBackground": "#0a192f",
+    "titleBar.activeForeground": "#8695b7",
+    "titleBar.inactiveBackground": "#0a192f",
+    "titleBar.inactiveForeground": "#8695b777",
+    "titleBar.border": "#0a192f",
+
     // Tabs
     "tab.activeBackground": "#0a192f",
     "tab.activeForeground": "#d7dce2",
@@ -28,6 +35,19 @@
     "tab.unfocusedHoverBackground": "#1d2433",
     "tab.hoverBorder": "#49bba7",
     "tab.unfocusedHoverBorder": "#0a192f",
+
+    // Status Bar Colors
+    "statusBar.background": "#0a192f",
+    "statusBar.foreground": "#8695b7",
+    "statusBar.border": "#0a192f",
+    "statusBar.debuggingBackground": "#0a192f",
+    "statusBar.debuggingForeground": "#8695b7",
+    "statusBar.noFolderBackground": "#0a192f",
+    "statusBar.noFolderForeground": "#8695b7",
+    "statusBarItem.activeBackground": "#0a192f",
+    "statusBarItem.hoverBackground": "#1d2433",
+    "statusBarItem.prominentBackground": "#0a192f",
+    "statusBarItem.prominentHoverBackground": "#1d2433",
 
     // Activity Bar
     "activityBar.background": "#0a192f",

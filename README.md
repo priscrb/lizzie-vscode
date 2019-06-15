@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Lizzie" src="images/logo.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/16469917/59545195-8d46ca00-8ef1-11e9-840e-44c260da852e.png" alt="Logo" width="150">
 </p>
 
 <h1 align="center">
