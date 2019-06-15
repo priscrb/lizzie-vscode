@@ -17,7 +17,7 @@
   },
   "description": "A dark simple theme for Vscode.",
   "publisher": "prscribeiro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.35.0"
   },
