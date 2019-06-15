@@ -174,7 +174,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -189,7 +189,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -212,7 +212,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -226,7 +226,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -237,7 +237,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -253,7 +253,7 @@
       "scope": ["entity.name.method.js"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -263,7 +263,7 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#C792EA"
       }
     },
     {
@@ -295,7 +295,7 @@
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#e6f1ff"
+        "foreground": "#C792EA"
       }
     },
     {
