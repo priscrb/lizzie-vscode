@@ -3,7 +3,17 @@
   "type": "dark",
   "colors": {
     "editor.background": "#0a192f",
-    "editor.foreground": "#eeffff",
+    "editor.foreground": "#e6f1ff",
+    "editorLineNumber.foreground": "#e6f1ff",
+    "editorCursor.background": "#e6f1ff",
+    "editorCursor.foreground": "#49bba7",
+    // "editorRuler.foreground": "#49bba7",
+
+    "editorWhitespace.foreground": "#2f3b54",
+    "editorIndentGuide.background": "#2f3b5477",
+    "editorIndentGuide.activeBackground": "#2f3b54",
+    "editorRuler.foreground": "#2f3b54",
+
     "activityBarBadge.background": "#0a192f",
     "sideBarTitle.foreground": "#bbbbbb",
 
