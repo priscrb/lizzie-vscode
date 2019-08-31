@@ -75,7 +75,7 @@
 
     // Side Bar
     "sideBar.background": "#0a192f",
-    "sideBar.foreground": "#49bba7",
+    "sideBar.foreground": "#d7dce2",
     "sideBar.border": "#0a192f",
     "sideBarSectionHeader.background": "#1d2433",
     "sideBarSectionHeader.foreground": "#C792EA",
