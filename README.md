@@ -20,7 +20,11 @@
   A minimal, dark blue theme for VS Code.
 </p>
 
-![demo](https://user-images.githubusercontent.com/16469917/59545380-b10b0f80-8ef3-11e9-9de5-ff9cbd7ca688.png)
+![demo-01](https://user-images.githubusercontent.com/16469917/64066693-698f4800-cbf3-11e9-9b0f-ae9d65a0b6dd.png)
+
+![demo-02](https://user-images.githubusercontent.com/16469917/64066702-83c92600-cbf3-11e9-8850-196f2dbe38d9.png)
+
+
 
 ## Installation via VS Code
 
