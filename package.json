@@ -15,7 +15,7 @@
     "url": "https://github.com/priscribeiro/lizzie-vscode/issues",
     "email": "prsc.ribeiro@gmail.com"
   },
-  "description": "A dark simple theme for Vscode.",
+  "description": "A simple dark theme for Vscode.",
   "publisher": "prscribeiro",
   "version": "1.0.3",
   "engines": {
@@ -35,6 +35,9 @@
   },
   "keywords": [
     "Themes",
+    "Dark",
+    "Theme",
+    "extension",
     "Dark Theme",
     "color-theme",
     "Lizzie"

@@ -29,4 +29,4 @@
 3.  Click **Install** to install it
 4.  Code > Preferences > Color Theme > **Lizzie**
 
-Created by **[Priscilla Ribeiro](https://prscribeiro.com)**
+Created by **[Priscilla R.](https://prscribeiro.com)**
